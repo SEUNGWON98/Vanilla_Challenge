@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+.clock {
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.hours {
+  font-size: 30px;
+}
